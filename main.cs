@@ -8,10 +8,16 @@ namespace HelloWorld
         {
             Console.WriteLine("Hello World!");
 
-            var pwd = "mypasswordis12345";
-            var secret_key = "445675-3456-433246-23567-34566"
+            string pwd;
+            string key;
+            string secret;
+            
+            key="pass1234";
+            pwd="pass1234";
+            secret="test12233pwd123";
+                
 
-            Console.WriteLine(pwd);
+            Console.WriteLine("Great Code, NOT!);
             
         }
     }
