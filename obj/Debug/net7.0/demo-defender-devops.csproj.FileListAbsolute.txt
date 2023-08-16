@@ -1,0 +1,15 @@
+C:\Development\demo-defender-devops\obj\Debug\net7.0\demo-defender-devops.csproj.AssemblyReference.cache
+C:\Development\demo-defender-devops\obj\Debug\net7.0\demo-defender-devops.GeneratedMSBuildEditorConfig.editorconfig
+C:\Development\demo-defender-devops\obj\Debug\net7.0\demo-defender-devops.AssemblyInfoInputs.cache
+C:\Development\demo-defender-devops\obj\Debug\net7.0\demo-defender-devops.AssemblyInfo.cs
+C:\Development\demo-defender-devops\obj\Debug\net7.0\demo-defender-devops.csproj.CoreCompileInputs.cache
+C:\Development\demo-defender-devops\bin\Debug\net7.0\demo-defender-devops.exe
+C:\Development\demo-defender-devops\bin\Debug\net7.0\demo-defender-devops.deps.json
+C:\Development\demo-defender-devops\bin\Debug\net7.0\demo-defender-devops.runtimeconfig.json
+C:\Development\demo-defender-devops\bin\Debug\net7.0\demo-defender-devops.dll
+C:\Development\demo-defender-devops\bin\Debug\net7.0\demo-defender-devops.pdb
+C:\Development\demo-defender-devops\obj\Debug\net7.0\demo-defender-devops.dll
+C:\Development\demo-defender-devops\obj\Debug\net7.0\refint\demo-defender-devops.dll
+C:\Development\demo-defender-devops\obj\Debug\net7.0\demo-defender-devops.pdb
+C:\Development\demo-defender-devops\obj\Debug\net7.0\demo-defender-devops.genruntimeconfig.cache
+C:\Development\demo-defender-devops\obj\Debug\net7.0\ref\demo-defender-devops.dll
